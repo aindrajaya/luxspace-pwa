@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React for PWA
+         @aindrajaya Learn React for PWA and Build on Vercel
         </a>
       </header>
     </div>
